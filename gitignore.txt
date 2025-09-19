@@ -1,0 +1,5 @@
+
+---
+
+### 3️⃣ `.gitignore`
+Save this as **.gitignore**
